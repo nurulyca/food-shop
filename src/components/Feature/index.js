@@ -5,7 +5,7 @@ const index = () => {
     return (
         <FeatureContainer>
             <h1>Best Seller</h1>
-            <p>Let me feed you well with this foods.</p>
+            <p>Let me feed you well with these delicacy.</p>
             <FeatureButton>Order Now</FeatureButton>
         </FeatureContainer>
     )
